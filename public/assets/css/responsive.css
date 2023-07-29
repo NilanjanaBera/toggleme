@@ -1,0 +1,293 @@
+@media screen and ( max-width: 992px) {
+    .save {
+        margin: 0 34px;
+        position: absolute;
+        margin-top: -301px;
+        margin-left: 592px;
+    }
+    .re-job-img img {
+        margin-left: 26px;
+    }
+    .re-new-button{
+        text-align: center;
+        margin-bottom: 17px;
+    }
+    .applied-btn{
+        text-align: center;
+    }
+    .input-area {
+        padding: 5px 72px 5px 15px;
+    }
+    .contact-inner {
+        background-color: #fff9fb;
+    }
+    .contan:after{
+        display: none;
+    }
+    .option1{
+        display: none;
+    }
+    .option2{
+        display: none;
+    }
+    .option3{
+        display: none;
+    }
+    .body-1 p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .register {
+        margin-top: 0px;
+    }
+    
+    
+}
+@media screen and (max-width: 768px){
+    /* footer */
+
+    .control-2 {
+        padding: 4px 8px;
+    }
+
+    /* end footer */
+
+    /* header */
+
+    .navbar-collapse{
+        margin-left: 0;
+    }
+    .navbar-brand img {
+        height: 38px;
+    }
+    .profile2{
+        margin-top: 65px;
+        background: #5e0124;
+        justify-content: end;
+        color: white;
+    }
+    .btn-profile{
+        color: white;
+    }
+    .profile-menu {
+        left: -6px !important;
+    }
+    .profile2 i{
+        color: white;
+    }
+    .mobile-nav a{
+        color: black;
+    }
+    .mobile-nav li{
+        padding: 0px 0;
+    }
+    .mobile-navs{
+        width: 208px;
+    }
+    /* end header */
+
+    /* banner */
+    .banner {
+        height: 351px;
+        background-position: right;
+        margin-top: 1px;
+    }
+
+    .appply-btn {
+        padding: 0px 0 20px 0;
+    }
+    .banner-2 {
+        margin-top: 0px;
+    }
+    .banner-3{
+        margin-top: 0;
+    }
+
+    /* how it work */
+    .account-text p {
+        padding: 7px 0px;
+        font-size: 13px;
+        text-align: justify
+    }
+    .account-text-2 p {
+        padding: 7px 0px;
+        font-size: 13px;
+        text-align: justify
+    }
+    .account-text-3 p {
+        padding: 7px 0px;
+        font-size: 14px;
+        text-align: justify;
+    }
+    /* register */
+    .option {
+        margin-top: 31px;
+        margin-bottom: 7px;
+    }
+    .option5 {
+        margin-top: -17px;
+    }
+    /* recommanded job */
+
+    .save{
+        position: absolute;
+        margin-top: -304px;
+        margin-left: 344px;
+    }
+
+    /* save candidate */
+
+    .save-profile {
+        margin-left: -21px;
+        margin-top: -107px;
+    }
+    .btn-view-profile {
+        padding: 5px 11px;
+        font-size: 10px;
+        margin-left: -51px;
+    }
+    .employers-container:before{
+       display: none;
+    }
+    .employers-container:after{
+        display: none;
+    }
+    .save-profile i {
+        font-size: 11px;
+        margin-top: 38px;
+        margin-left: 46px;
+    }
+    .candidates-inner-text h4 {
+        font-size: 16px;
+    }
+    .candidates-inner-text p{
+        font-size: 11px;
+    }
+
+    /* Jobs */
+    
+    .re-new-button{
+        text-align: center;
+        margin-bottom: 17px;
+    }
+    .details-one{
+        border-right: none;
+    }
+    .input-area {
+        padding: 5px 140px 5px 15px;
+    }
+    /* candidates list */
+    #container{
+        width: auto;
+    }
+    .shortlist-candidate {
+        height: 943px;
+    }
+    #container .list li {
+       
+        margin: 11px -14px;
+    }
+    .input-area {
+        padding: 5px 72px 5px 15px;
+    }
+    .employers-login {
+        margin-top: 37px;
+        margin-bottom: 40px;
+    }
+    .login {
+        margin-top: 20px;
+        margin-bottom: 47px;
+    }
+}
+@media screen and (max-width: 594px){
+    .save {
+        position: absolute;
+        margin-top: -304px;
+        margin-left: 361px;
+    }
+}
+@media screen and (max-width: 540px){
+    .save-job {
+        justify-content: end;
+        position: absolute;
+        margin-top: -150px;
+        margin-left: 309px;
+    }
+}
+@media screen and (max-width: 594px){
+    .save {
+        position: absolute;
+        margin-top: -304px;
+        margin-left: 313px;
+    }
+}
+
+@media screen and (max-width: 414px){
+    .save {
+        position: absolute;
+        margin-top: -323px;
+        margin-left: 294px;
+        font-size: 13px;
+    }
+    .input-area {
+        border: 1px solid #dddddd;
+        display: flex;
+        padding: 5px 102px 5px 15px;
+        border-radius: 12px;
+    }
+    .save-job {
+        justify-content: end;
+        position: absolute;
+        margin-top: -170px;
+        margin-left: 298px;
+        font-size: 12px;
+    }
+    .input-area {
+        padding: 5px 72px 5px 15px;
+    }
+}
+@media screen and (max-width: 412px){
+    .re-job-img img {
+        margin-left: 26px;
+    }
+    .save i {
+        margin: 4px 15px;
+        font-size: 11px;
+    }
+    .save {
+        position: absolute;
+        margin-top: -323px;
+        margin-left: 294px;
+        font-size: 13px;
+    }
+    .re-new-button{
+        text-align: center;
+        margin-bottom: 17px;
+    }
+}
+@media screen and (max-width: 390px){
+    .save-job {
+        justify-content: end;
+        position: absolute;
+        margin-top: -163px;
+        margin-left: 269px;
+    }
+}
+    
+@media screen and (max-width: 378px){
+    .save {
+        margin-top: -335px;
+        margin-left: 276px;
+    }
+    .banner-inner-2 h1{
+        font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    }
+    .save-job {
+        justify-content: end;
+        position: absolute;
+        margin-top: -163px;
+        margin-left: 269px;
+    }
+}
